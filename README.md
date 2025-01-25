@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Spring boot(JAVA full-stack)**
 
-- 👨‍💻 All of my projects are available at [https://aboutme123.ccbp.tech/](https://aboutme123.ccbp.tech/)
+- 👨‍💻 my profile site is [https://aboutme123.ccbp.tech/](https://aboutme123.ccbp.tech/)
 
 - 💬 Ask me about **python,java,css,bootstrap......**
 
-- 📫 How to reach me **t.me/vbs_1**
+- 📫 How to reach me **https://t.me/vbs_1**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
