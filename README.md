@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **python,java,css,bootstrap......**
 
-- 📫 How to reach me **https://t.me/vbs_1**
+- 📫 How to reach me **https://t.me/vbs_0**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
