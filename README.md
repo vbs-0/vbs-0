@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vbs-0" alt="vbs-0" /></a> </p>
 
-- 🌱 I’m currently learning **Spring boot(JAVA full-stack)**
+- 🌱 I’m currently working as a SDE
 
 - 👨‍💻 my profile site is [https://aboutme123.ccbp.tech/](https://aboutme123.ccbp.tech/)
 
